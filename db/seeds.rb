@@ -37,4 +37,3 @@ puts '5 skills created'
 end
 
 puts '9 portfolio items created'
-
